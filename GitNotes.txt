@@ -1,0 +1,8 @@
+https://github.com/settings/tokens
+
+
+https://stackoverflow.com/questions/68790276/pushing-from-eclipse-to-my-github-repository-via-https-stopped-working-git-rec/68802292#68802292
+
+
+
+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

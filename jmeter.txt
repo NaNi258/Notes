@@ -1,0 +1,42 @@
+JMeter:
+
+============
+19 jan  2022
+============
+Installation : need java 8 or higher>download it from apache jmeter website>unzip the folder>in oder to start in bin>run the batch file
+
+__________________________________________________________________________________________________________________________________________________
+
+JMeter elements:
+
+TestPlan:>>>it contains the test elements need to perform the test.
+
+
+1.start jmeter
+2.create test plan 
+3.create thread group(users)
+4.Add sampler>>>(ex:http request)
+5.Add listener(Result)
+6.Run the test
+
+______________________________________________________________________________________________________________________________________________________________
+
+Assertion::checks on the response
+
+1.Response Assertion:200 or not like
+
+2.Duration Assertion
+
+3.Size Assertion
+
+4.HTML Assertion:;whether it is specified HTML format or not
+
+5.XML Assertion
+
+6.xpath Assertion(mostly used in API testing)
+
+
+_________________________________________________________________________________________________________________________________________________________________
+
+
+
