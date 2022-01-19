@@ -6,3 +6,9 @@ https://stackoverflow.com/questions/68790276/pushing-from-eclipse-to-my-github-r
 
 
 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
+
+
+
+url for adding folder in github using gitbash
+
+https://docs.github.com/en/github/importing-your-projects-to-github/importing-source-code-to-github/adding-an-existing-project-to-github-using-the-command-line
